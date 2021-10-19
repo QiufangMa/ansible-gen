@@ -3,9 +3,6 @@
 ## **Overview**
 ansible-gen is a tool which can generated ansible modules according to yang modules and some user-specified files automatically.
 
-## **Documentation**
-see Documentation
-
 ## **Installation**
 ### **Prerequisites**
 - OS: Windows,Red Hat,Ubuntu,CentOS,OS X,BSD,Suse
@@ -26,7 +23,9 @@ see Documentation
 
 
 ### **From Source**
-```git clone https://github.com/HuaweiDatacomm/ansible-gen.git```
+```sh
+$git clone https://github.com/HuaweiDatacomm/ansible-gen.git
+```
 
 `cd ./ansible-gen/ansible-gen` 
 
