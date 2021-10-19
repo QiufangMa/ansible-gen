@@ -27,22 +27,30 @@ ansible-gen is a tool which can generated ansible modules according to yang modu
 $git clone https://github.com/HuaweiDatacomm/ansible-gen.git
 ```
 
-`cd ./ansible-gen/ansible-gen` 
+```sh
+$cd ./ansible-gen/ansible-gen
+```
 
-`chmod +x ./ansible-gen.sh` 
+```sh
+$chmod +x ./ansible-gen.sh
+```
 
-`./ansible-gen.sh`
+```
+$./ansible-gen.sh
+```
 
 ### **From Pypi**
 
-`pip3 install ansible-gen`
+```
+$pip3 install ansible-gen
+```
 
-## **How to use**
+## **Usage**
 input commandline: **ansilbe-gen -h** after installation.
 
 ansible-gen -h
 
-Usage: ansible-gen.py [options]
+Usage: ansible-gen [options]
 
 Dynamically generate Ansible modules from yang and xml files, then deploy
 Ansible module
