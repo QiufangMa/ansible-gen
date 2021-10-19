@@ -83,5 +83,5 @@ Options:
 
 Ansible-gen 0.2.0
 
-## **Adtional Resources**
+## **Aditional Resources**
 TBD
