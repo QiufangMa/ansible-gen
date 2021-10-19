@@ -26,7 +26,7 @@ see Documentation
 
 
 ### **From Source**
-`git clone https://github.com/HuaweiDatacomm/ansible-gen.git`
+```git clone https://github.com/HuaweiDatacomm/ansible-gen.git```
 
 `cd ./ansible-gen/ansible-gen` 
 
